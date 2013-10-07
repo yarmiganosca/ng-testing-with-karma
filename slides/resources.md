@@ -1,5 +1,11 @@
 ## For More Information:
 
+Slides: <a href="https://github.com/yarmiganosca/ng-testing-with-karma">github.com/yarmiganosca/ng-testing-with-karma</a>
+
+App: <a href="https://github.com/yarmiganosca/ng-testing-with-karma-app">github.com/yarmiganosca/ng-testing-with-karma-app</a>
+
+<br/>
+
 eitanpeer's Slides: <a href="http://slid.es/eitanpeer/angularjs-testing">slid.es/eitanpeer/angularjs-testing</a>
 
 Angular API Reference: <a href="http://docs.angularjs.org/api">docs.angularjs.org/api</a>
